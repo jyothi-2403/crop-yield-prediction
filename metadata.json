@@ -1,0 +1,7 @@
+{
+  "name": "Copy of yield prediction and optmisation",
+  "description": "An AI-powered platform to predict crop yields and provide actionable recommendations for farmers. Using historical data, weather patterns, and soil metrics, it helps optimize irrigation, fertilization, and pest control to boost productivity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
